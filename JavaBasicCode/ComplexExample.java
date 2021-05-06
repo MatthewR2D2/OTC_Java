@@ -9,12 +9,12 @@ class Box{
 	
 	public void printBox()
 	{
-		System.out.println("The is a very simple box object");
+		System.out.println("Another change of the box");
 	}
 }
 class Box2{
     //Box variables
-    private final String brandName = "Big something or anther";
+    private final String brandName = "Big Corp";
     private int width;
     private int lenght;
     private int height;
