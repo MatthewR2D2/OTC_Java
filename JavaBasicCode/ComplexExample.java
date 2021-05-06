@@ -14,7 +14,7 @@ class Box{
 }
 class Box2{
     //Box variables
-    private final String brandName = "Big corp box thingy company";
+    private final String brandName = "Big something or anther";
     private int width;
     private int lenght;
     private int height;
